@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/HaitaoYue/myweb/utils"
 	"github.com/gin-gonic/gin"
-	"github.com/myweb/utils"
 	"log"
 )
 

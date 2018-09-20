@@ -1,11 +1,11 @@
 package main
 
 import (
+	"github.com/HaitaoYue/myweb/book"
+	"github.com/HaitaoYue/myweb/users"
+	"github.com/HaitaoYue/myweb/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
-	"github.com/myweb/book"
-	"github.com/myweb/users"
-	"github.com/myweb/utils"
 	"gopkg.in/go-playground/validator.v8"
 	"log"
 	"net/http"

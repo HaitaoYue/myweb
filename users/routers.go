@@ -1,9 +1,9 @@
 package users
 
 import (
+	"github.com/HaitaoYue/myweb/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/golang/glog"
-	"github.com/myweb/utils"
 	"net/http"
 )
 
